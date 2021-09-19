@@ -18,7 +18,7 @@ const App = () => {
 
   return (
     <div>
-      <label className="lable" for="name">
+      <label className="lable" htmlFor="name">
         Enter name :{" "}
       </label>
       <input id="name" type="text" />
